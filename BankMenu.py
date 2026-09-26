@@ -1,0 +1,17 @@
+#BankMenu.py
+def menu():
+    print("="*50)
+    print("\tBanking Information System")
+    print("=" * 50)
+    print("\t1.Open An Account")
+    print("\t2.PIN generate")
+    print("\t3.PIN change")
+    print("\t4.Deposit")
+    print("\t5.Withdraw")
+    print("\t6.Search for customer")
+    print("\t7.view single customer details")
+    print("\t8.View all customers")
+    print("\t9.Close an account")
+    print("\t10.Exit")
+    print("="*50)
+#menu()
